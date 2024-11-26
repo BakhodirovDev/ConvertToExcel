@@ -1,0 +1,6 @@
+@ConvertToExcel_HostAddress = http://localhost:5101
+
+GET {{ConvertToExcel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
